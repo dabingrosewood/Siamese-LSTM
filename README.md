@@ -39,6 +39,6 @@ the basic idea behind this program is [this paper](http://www.mit.edu/~jonasm/in
 
 ### result:
 ```
-    acc on training data: 0.8670
-    acc on test data: 0.8255
+    acc on training data: 0.9078
+    acc on test data: 0.8316
 ```
