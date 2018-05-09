@@ -1,6 +1,6 @@
 Siamese-LSTM RNN for semantic sentence search
 ==== 
-
+last edit:9-5-2018
 This project is actually for the IRTA course in leiden Uni.
 
 
