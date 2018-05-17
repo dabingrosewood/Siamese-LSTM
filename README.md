@@ -42,3 +42,9 @@ the basic idea behind this program is [this paper](http://www.mit.edu/~jonasm/in
     acc on training data: 0.9078
     acc on test data: 0.8316
 ```
+
+### future work:
+    may be improved by useing stemming of words and filter stopwords
+    to do:
+        1.train new word embedding(numberbatch may not support stemming)
+        2.process the input file into stemming version 
